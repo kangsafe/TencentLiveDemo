@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_rtmp_room_demo.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\menu\\menu_rtmp_room_demo.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\player_menu.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\menu\\player_menu.xml"
+    }
+]

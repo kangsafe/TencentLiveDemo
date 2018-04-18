@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_answerroom_dialog_answer.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_answerroom_dialog_answer.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_vod.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_new_vod.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pre_processor.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_pre_processor.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_logview.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_video_logview.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_grid_item_video.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\camera_grid_item_video.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_word.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_word.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_paster_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_paster_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_main.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_lv_main.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_ctrl_music_list.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\audio_ctrl_music_list.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\effect_pannel.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\effect_pannel.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qrcode.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_qrcode.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_live_room_list.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_live_room_list.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_input_word.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_input_word.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar_new.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\titlebar_new.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bgm_record_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_bgm_record_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videocall.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_videocall.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_answer_room_list.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_answer_room_list.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_answer_room_chat.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_answer_room_chat.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_word_input.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_word_input.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_video_progress.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_video_progress.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_loading_progress.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_loading_progress.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_title.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\view_title.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_edit_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_edit_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_new_vod_player_fileid.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\dialog_new_vod_player_fileid.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cutter.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_cutter.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rtcroom_chatview_item_left.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\rtcroom_chatview_item_left.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_layer_operation_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_layer_operation_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_item.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\swipe_item.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rtc_room_room.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_rtc_room_room.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_live_room.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_live_room.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar_videocall.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\titlebar_videocall.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rtc_double_room.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_rtc_double_room.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exo_simple_player_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\LiteAVSDK_Smart\\res\\layout\\exo_simple_player_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vod_video.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_vod_video.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_pannel.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\edit_pannel.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ugcedit_publish.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\dialog_ugcedit_publish.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_progress_thumbnail.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_video_progress_thumbnail.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ugc_video_list.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_ugc_video_list.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_new_vod.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_new_vod.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rtc_multi_room_chat.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_rtc_multi_room_chat.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rtc_multi_room_list.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_rtc_multi_room_list.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ugc_tip.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\dialog_ugc_tip.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_record.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_video_record.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_rtmproom_list_item.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_rtmproom_list_item.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_publisher.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_video_publisher.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bubble_img.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_bubble_img.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exo_playback_control_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\LiteAVSDK_Smart\\res\\layout\\exo_playback_control_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_confirm.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_confirm.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_easy_switcher_layout.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\video_easy_switcher_layout.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_bubble_win.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_bubble_win.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_default_operation_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_default_operation_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_answer_play.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_answer_play.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_motion_edit_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_motion_edit_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_joiner_progress.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_joiner_progress.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_new_vod_snap.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_new_vod_snap.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_publish.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_video_publish.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_rtmproom_hint_dialog.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_rtmproom_hint_dialog.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_ugc_video.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_ugc_video.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rtc_multi_room.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_rtc_multi_room.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_answer_room.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_answer_room.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\music_pannel.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\music_pannel.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tools_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_tools_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_video_media_toolbar.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\biz_video_media_toolbar.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\comment.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rtc_room_list.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_rtc_room_list.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_answerroom_dialog_question.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_answerroom_dialog_question.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_editer_bgm.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_editer_bgm.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_rtmproom_dialog_create_room.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_rtmproom_dialog_create_room.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_bitrate_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\sample_bitrate_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_editer2.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_video_editer2.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linkmic.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_linkmic.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_paster_edit_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_paster_edit_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_time.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_time.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rtmproom_roominfo_item.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\rtmproom_roominfo_item.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filter_layout.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\filter_layout.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\super_vodeo_player_layout.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\super_vodeo_player_layout.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chose_music.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_chose_music.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_input_text.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\dialog_input_text.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_ctrl_music_item.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\audio_ctrl_music_item.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_joiner_preview.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_video_joiner_preview.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_word_edit_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_word_edit_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_publish.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_preview.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_video_preview.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vod.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_vod.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_time_effect.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_time_effect.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rtcroom_doubleroom_list_item.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\rtcroom_doubleroom_list_item.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_compress.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_compress.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_editer.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_video_editer.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_settings.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_video_settings.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webrtc.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_webrtc.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rtc_room_multi_room.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_rtc_room_multi_room.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_motion.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_motion.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rtc_double_room_chat.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_rtc_double_room_chat.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_word_editor.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_word_editor.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_ctrl.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\audio_ctrl.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_video_media_controller.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\biz_video_media_controller.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_beauty_area.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_beauty_area.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_round_progress_bar.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_round_progress_bar.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_repeat_slider.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_repeat_slider.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paster_edit.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_paster_edit.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\merge_camera_preview_view_finder.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\barcodescanner-core-1.8.4\\res\\layout\\merge_camera_preview_view_finder.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rtcroom_chatview_item_right.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\rtcroom_chatview_item_right.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_motion.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_motion.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_video_media_more_setting_panel.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\biz_video_media_more_setting_panel.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\module_entry_item.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\module_entry_item.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_rtc_double_room_list.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_rtc_double_room_list.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_record_speed.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\item_record_speed.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\beauty_pannel.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\beauty_pannel.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_default_bubble_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_default_bubble_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_joiner.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_video_joiner.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_word_edit.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\activity_word_edit.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_live_room_chat.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_live_room_chat.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bgm.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_bgm.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_paster_select.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_paster_select.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ugc_convert.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\dialog_ugc_convert.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_paster_operation_view.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_paster_operation_view.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_static_filter.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\fragment_static_filter.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\compose_record_btn.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\compose_record_btn.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\biz_video_media_resolution_panel.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\biz_video_media_resolution_panel.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\green_layout.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\green_layout.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_menu_item.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\swipe_menu_item.xml"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_range_slider.xml",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\layout\\layout_range_slider.xml"
+    }
+]

@@ -1,0 +1,878 @@
+[
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_close.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_close.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_word_add.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_word_add.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_camera_audio.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_audio.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_music_pressed.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_music_pressed.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_record_music_hover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_record_music_hover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_word_delete.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_word_delete.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publish_4.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publish_4.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_word_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_word_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_vp_share_circle.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_vp_share_circle.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_pause.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_record_back.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_record_back.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tail_watermark.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\tail_watermark.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_motion_pressed.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_motion_pressed.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_reverse_normal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_reverse_normal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\fennen.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\fennen.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_progress_line.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress_line.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_vp_share_wx_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_vp_share_wx_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vod_more_normal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vod_more_normal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_show_fullscreen.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_show_fullscreen.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_resolution_select_bg.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_resolution_select_bg.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\progress_bg.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\progress_bg.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_landiao.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_landiao.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\huaijiu.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\huaijiu.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_show_11.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_show_11.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_start.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_start.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_motion.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_motion.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_vp_share_qq.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_vp_share_qq.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_vp_share_wb.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_vp_share_wb.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\start_record.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\start_record.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_vp_share_qq_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_vp_share_qq_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_qingxin.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_qingxin.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_lamp_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_lamp_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vod_player_cover_top.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vod_player_cover_top.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\progress_primary.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\progress_primary.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\weimei.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\weimei.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_4.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_4.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_torch_close_hover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_torch_close_hover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_progress_right.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress_right.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_check.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vod_player_cover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vod_player_cover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_9.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_9.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_pause.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_pause.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_long_click_move.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_long_click_move.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_word_edit.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_word_edit.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_danmuku_on.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_danmuku_on.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publish_2.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publish_2.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publish_8.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publish_8.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_vp_share_wx.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_vp_share_wx.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vod_search.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vod_search.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\off.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\off.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\conf_icon.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\conf_icon.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_record_music.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_record_music.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_white.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_white.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tcloud_logo.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\tcloud_logo.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_13.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_13.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_paster_pressed.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_paster_pressed.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_beautiful.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_beautiful.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vod_add.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vod_add.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_aspect43.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_aspect43.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bgm_wave_voice.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\bgm_wave_voice.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vod_thumb.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vod_thumb.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_fennen.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_fennen.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_10.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_10.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\selected_hover_image.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\selected_hover_image.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publisher_live.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_live.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_delete_last_part_hover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_delete_last_part_hover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_start_record.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_start_record.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_play.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_6.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_6.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_aspect169hover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_aspect169hover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\video.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\video.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_torch_close.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_torch_close.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bgm_icon_mic.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\bgm_icon_mic.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_record_beautiful_girl.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_record_beautiful_girl.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\move.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\move.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_mask_top.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_mask_top.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publisher_video.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_video.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_word_pause.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_word_pause.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\greens_no.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\greens_no.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_delete_last_part_disable.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_delete_last_part_disable.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publish_6.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publish_6.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_torch_open.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_torch_open.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_progress_left.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress_left.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qingliang.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\qingliang.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\edit.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\edit.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_12.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_12.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_volume_max.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_volume_max.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publish_0.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publish_0.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publish_1.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publish_1.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\greens.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\greens.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mute_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\mute_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publish_7.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publish_7.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\greens_1.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\greens_1.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_record_ring_light.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_record_ring_light.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_progress_left_dis.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress_left_dis.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_11.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_11.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\stop_record.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\stop_record.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_kick_out.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_kick_out.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\video_stop.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\video_stop.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_delete_last_part.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_delete_last_part.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mute.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\mute.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_5.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_5.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_beautiful.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_beautiful.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_record_beautiful_girl_hover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_record_beautiful_girl_hover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_camera.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_camera.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_huaijiu.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_huaijiu.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_vp_share_qzone.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_vp_share_qzone.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vod_float.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vod_float.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cut.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cut.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_vp_share_wb_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_vp_share_wb_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_delete.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_delete.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publish_3.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publish_3.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_vp_share_qzone_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_vp_share_qzone_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vod_snapshot_normal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vod_snapshot_normal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\greens_selected.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\greens_selected.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\greens_2.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\greens_2.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_torch_disable.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_torch_disable.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\edit_pressed.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\edit_pressed.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_music.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_music.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_video_material_download_pressed.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_video_material_download_pressed.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\beautiful_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_camera_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_camera_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_14.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_14.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_vp_share_circle_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_vp_share_circle_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publisher_live_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_live_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_switch_camera_hover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_switch_camera_hover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_close_hover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_close_hover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_switch_camera.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_switch_camera.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\shipin_shang.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\shipin_shang.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_delete_red.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete_red.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\biz_video_list_play_icon_big.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\biz_video_list_play_icon_big.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_light_max.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_light_max.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_volume_min.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_volume_min.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_langman.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_langman.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vod_fullscreen.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vod_fullscreen.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_qcode.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_qcode.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_record_back_disable.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_record_back_disable.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_1.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_1.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cut_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cut_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_qingliang.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_qingliang.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\motion_btn_delete.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\motion_btn_delete.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_selected.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_selected.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_confirm.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_confirm.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_beautiful_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_beautiful_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_bubble_add_default.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_bubble_add_default.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_3.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_3.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_time_effect_pressed.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_time_effect_pressed.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_time_copy_normal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_time_copy_normal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_danmuku_off.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_danmuku_off.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_aspect169.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_aspect169.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_share_png.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_share_png.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_video_material_download_normal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_video_material_download_normal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_aspect11hover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_aspect11hover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publish_5.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publish_5.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\landiao.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\landiao.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_download.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_download.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publisher_video_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_video_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_new_vod_back_normal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_new_vod_back_normal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_reverse_pressed.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_reverse_pressed.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\greens_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\greens_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_torch_open_hover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_torch_open_hover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vod.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\vod.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\video_confirm.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\video_confirm.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_mask_buttom.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_mask_buttom.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_time_effect_normal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_time_effect_normal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_pause_record.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_pause_record.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_show_34.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_show_34.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_word.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_word.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_7.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_7.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_record_ring_gray.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_record_ring_gray.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\rixi.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\rixi.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_time_effect_no_pressed.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_time_effect_no_pressed.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_speed_pressed.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_speed_pressed.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_again.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_again.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_aspect11.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_aspect11.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_repeate_range.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_repeate_range.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_play.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_play.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_download_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_download_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\beautiful.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_rixi.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_rixi.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vod_play_normal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vod_play_normal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_pause_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_pause_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_word_play.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_word_play.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publish_success.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publish_success.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\off_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\off_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_light_min.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_light_min.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\jointer_btn_cancel.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\jointer_btn_cancel.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_progress_right_dis.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress_right_dis.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bgm_music_icon.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\bgm_music_icon.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_paster.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_paster.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_speed_normal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_speed_normal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_add_default.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_add_default.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_time_effect_no_normal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_time_effect_no_normal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_add_light.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_add_light.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_word_rotation.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_word_rotation.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_confirm_disable.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_confirm_disable.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\video_music.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\video_music.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_new_vod_bg.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_new_vod_bg.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_start_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_start_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_delete_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_delete_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_time_copy_pressed.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_time_copy_pressed.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\orginal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\orginal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_bubble_add_light.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_bubble_add_light.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_confirm_hover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_confirm_hover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_share_pressed.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_share_pressed.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cloud_logo.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cloud_logo.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_camera_download_bg.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_download_bg.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_8.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_8.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_aspect43hover.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_aspect43hover.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vod_pause_normal.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vod_pause_normal.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\langman.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\langman.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\move_press.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\move_press.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_2.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_2.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_weimei.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_weimei.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qingxin.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\qingxin.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\biz_news_detailpage_loading_large_icon.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\biz_news_detailpage_loading_large_icon.png"
+    },
+    {
+        "merged": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\record_lamp.png",
+        "source": "F:\\LiteAVSDK_Smart_Android\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\record_lamp.png"
+    }
+]
